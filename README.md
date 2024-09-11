@@ -39,7 +39,7 @@ I take pride in merging creativity with technical skill to build seamless and in
 #
 
 <details>
- <summary><h3>👨‍💻 Nate's Coding Journey</h3></summary>
+ <summary><h3>👨‍💻 My Coding Journey</h3></summary>
   My journey into coding began with a fascination for technology and a desire to create. Starting with the basics of HTML and CSS, I quickly became captivated by JavaScript and its potential to bring websites to life.
 
 After completing an intensive web development boot camp, I honed my skills in front-end technologies and frameworks, including React, Vue.js, and Angular. I developed a solid foundation in modern web design principles and advanced JavaScript techniques.
