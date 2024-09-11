@@ -1,4 +1,4 @@
-# Hi 👋, I'm [Nate][website]
+# Hi 👋, I'm [Jonathan Kalu][website]
 
 **`Digital Craftsman (Developer/Frontend/Web-Developer)`**
 
